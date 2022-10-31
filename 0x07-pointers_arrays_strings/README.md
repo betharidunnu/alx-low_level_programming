@@ -1,1 +1,1 @@
-This is a C programming directory
+Not empty
