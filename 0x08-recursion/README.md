@@ -1,1 +1,1 @@
-A recursion directory
+This is a recursion directory, all functions are here in my directory
